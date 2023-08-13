@@ -3101,9 +3101,9 @@ img.alignleft {
 .red-heading2{color:#ff0d0f; line-height:26px;}
 .white-heading{color:#fff; font-weight:300; line-height:26px;}
 .white-heading1{color:#fff; font-weight:400; font-size:27px !important; line-height:26px;}
-.black-heading{color:#000; line-height:26px;}
-.black-heading1{color:#000 !important; line-height:26px;}
-.black-heading2{color:#000 !important; line-height:26px;}
+.black-heading{color:#000; line-height:36px;}
+.black-heading1{color:#000 !important; line-height:36px;}
+.black-heading2{color:#000 !important; line-height:36px;}
 .white-heading3{color:#000 !important; font-weight:500; font-size:17px; line-height:26px;}
 .blue-heading2{color:#000; font-weight:300; font-size:30px !important; line-height:26px;}
 .blue-heading3{color:#095b8a; font-weight:300; font-size:60px !important; background:none; background-position:top; float:left; line-height:26px;}
@@ -10059,7 +10059,7 @@ span.required {
 .white-heading{color:#fff; font-weight:300; line-height:26px;}
 .white-heading1{color:#fff; font-weight:400; font-size:27px !important; line-height:26px;}
 .black-heading{color:#000; line-height:26px;}
-.black-heading1{color:#000 !important; line-height:26px;}
+.black-heading1{color:#000 !important; line-height:36px;}
 .black-heading2{color:#000 !important; line-height:26px;}
 .blue-heading2{color:#095b8a; font-weight:300; font-size:30px !important; line-height:26px;}
 .blue-heading3{color:#095b8a; font-weight:300; font-size:60px !important; background:none; background-position:top; float:left; line-height:26px;}
