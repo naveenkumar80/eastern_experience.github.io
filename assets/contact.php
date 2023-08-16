@@ -20,17 +20,24 @@
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "naveenkumar80032@gmail.com";
+        $recipient = "scorpion80032@gmail.com";
 
         // Set the email subject.
         $subject = "New contact from $name";
 
         // Build the email content.
+        // $email_content = "First Name: $name\n";
+        // $email_content = "Phone Number: $phone\n";
+        // $email_content .= "Email: $email\n\n";
+        // $email_content .= "Country: $country\n\n";
+        // $email_content .= "Message:\n$message\n";
+        // Build the email content.
         $email_content = "First Name: $name\n";
-        $email_content = "Phone Number: $phone\n";
+        $email_content .= "Phone Number: $phone\n"; // Use .= to append
         $email_content .= "Email: $email\n\n";
         $email_content .= "Country: $country\n\n";
         $email_content .= "Message:\n$message\n";
+
 
         // Build the email headers.
         $email_headers = "From: $name <$email>";
