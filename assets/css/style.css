@@ -1087,7 +1087,7 @@ p {
 .single_service {
   -webkit-box-shadow: 0px 0px 15px 0px rgba(173, 206, 243, 0.1);
   box-shadow: 0px 0px 15px 0px rgba(173, 206, 243, 0.1);
-  padding: 25px 15px;
+  padding: 25px 35px;
   background-color: #fff;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
